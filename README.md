@@ -67,7 +67,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 python main.py
 
-**## 🧾 Run Commands (Speak)**
+## 🧾 Run Commands (Speak)
 
 | Say This               | What Happens               |
 | ---------------------- | -------------------------- |
