@@ -1,7 +1,6 @@
 # 🎤 VoiceOS – Offline Voice-Controlled Desktop Assistant
 
-VoiceOS is a Python-based system assistant that listens to voice commands and controls your Windows computer — **without any AI models or internet**.  
-It works fully offline using CMU PocketSphinx and can open apps, search, control Windows actions like shutdown, restart, volume, and much more.
+VoiceOS is a Python-based system assistant that listens to voice commands and controls your Windows computer — **without any AI models or internet**. It works fully offline using CMU PocketSphinx and can open apps, search, control Windows actions like shutdown, restart, volume, and much more.
 
 ---
 
@@ -9,12 +8,19 @@ It works fully offline using CMU PocketSphinx and can open apps, search, control
 
 | Category | Capabilities |
 |----------|--------------|
+
 | 🎙 Voice Trigger | Wake word (`system activate`), stop (`stop listening`) |
+
 | 🧠 Offline | Speech recognition (no internet) |
+
 | 🪟 System Control | Shutdown, restart, mute, volume, minimize |
+
 | 📂 App Launching | Chrome, Word, Excel, File Explorer |
+
 | 🌐 Browser | Google search, YouTube, ChatGPT |
+
 | 🧱 Tray Mode | Runs silently in background |
+
 | 🧾 Windows EXE | Can be packaged to `.exe` |
 
 ---
@@ -61,7 +67,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 python main.py
 
-🧾 Run Commands (Speak)
+**## 🧾 Run Commands (Speak)**
 
 | Say This               | What Happens               |
 | ---------------------- | -------------------------- |
