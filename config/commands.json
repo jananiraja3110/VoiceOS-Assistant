@@ -1,0 +1,10 @@
+{
+  "open chrome": "APP:chrome",
+  "open notepad": "APP:notepad",
+  "open calculator": "APP:calculator",
+  "close window": "SYS:close_window",
+  "shutdown system": "SYS:shutdown",
+  "restart system": "SYS:restart",
+  "volume up": "SYS:vol_up",
+  "volume down": "SYS:vol_down"
+}

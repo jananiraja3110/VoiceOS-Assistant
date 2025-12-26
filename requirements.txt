@@ -1,0 +1,9 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+pyautogui
+win10toast
+requests
+Pillow
+infi.systray
+pystray
