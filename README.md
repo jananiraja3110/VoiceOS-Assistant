@@ -41,17 +41,29 @@ VoiceOS is a Python-based system assistant that listens to voice commands and co
 ## 📁 Folder Structure
 
 voice_os_control/
+
 │── main.py
+
 │── listener.py
+
 │── parser.py
+
 │── executor.py
+
 │── gui.py
+
 │── notifier.py
+
 │── config/
+
 │ ├── commands.json
+
 │ └── app_paths.json
+
 │── assets/
+
 │ └── icon.ico
+
 │── requirements.txt
 
 
